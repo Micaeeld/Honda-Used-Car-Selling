@@ -1,26 +1,26 @@
-# Análise Exploratória de Dados - Venda de Carros Honda
-Este notebook contém uma análise exploratória de dados e uma previsão de preços dos carros Honda em uma loja específica, disponível no Kaggle em https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling.
+# Exploratory Data Analysis - Honda Car Sales
+This notebook contains exploratory data analysis and price prediction for Honda cars at a specific store, available from Kaggle at https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling.
 
-## Contexto
-A venda de carros é um setor importante da economia em muitos países. A análise de dados pode ajudar as empresas a identificar padrões e tendências nas vendas e no comportamento do consumidor. Além disso, a previsão de preços pode ajudar a empresa a ajustar suas estratégias de precificação.
+## Context
+Car sales are an important sector of the economy in many countries. Data analytics can help companies identify patterns and trends in sales and consumer behavior. Furthermore, price forecasting can help the company adjust its pricing strategies.
 
 ## Dataset
-O conjunto de dados da "Honda Used Car Selling" contém informações sobre as vendas de carros Honda em uma loja específica. Ele contém informações sobre o modelo do carro, ano de fabricação, preço, quilometragem, entre outras variáveis.
+The "Honda Used Car Selling" dataset contains information about sales of Honda cars at a specific store. It contains information about the car model, year of manufacture, price, mileage, among other variables.
 
-## Análise exploratória dos dados
-Neste notebook, realizei uma análise exploratória dos dados com o objetivo de identificar as principais tendências nas vendas de carros Honda. Alguns dos principais aspectos que investiguei foram:
+## Exploratory data analysis
+In this notebook, I performed an exploratory analysis of the data in order to identify the main trends in Honda car sales. Some of the main aspects I investigated were:
 
-- Distribuição dos modelos de carros vendidos
-- Preço médio de venda por modelo de carro
-- Distribuição dos anos de fabricação dos carros vendidos
-- Relação entre o preço com as outras variaveis
+- Distribution of car models sold
+- Average selling price by car model
+- Distribution of years of manufacture of cars sold
+- Relationship between price and other variables
 
-## Previsão de preços
-Além da análise exploratória dos dados, realizei uma previsão de preços dos carros Honda usando regressão. A partir das variáveis disponíveis no dataset, treinei um modelo de regressão para prever os preços dos carros. O modelo foi avaliado usando a métrica de erro médio quadrático (MSE) e apresentou um desempenho satisfatório.
+## Price forecast
+In addition to exploratory data analysis, I performed a Honda car price forecast using regression. From the variables available in the dataset, I trained a regression model to predict car prices. The model was evaluated using the Mean Squared Error (MSE) metric and presented a satisfactory performance.
 
-## Resultados
-Os resultados deste notebook podem ajudar a loja de carros Honda a identificar quais modelos e anos de carros estão tendo mais saída e a ajustar suas estratégias de preços. Além disso, a análise pode ser útil para outras empresas que desejam entender melhor o mercado de venda de carros Honda.
+## Results
+The results from this notebook can help the Honda car dealership identify which car models and years are selling the most and adjust their pricing strategies. In addition, the analysis can be useful for other companies that want to better understand the Honda car sales market.
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, abra um problema no repositório ou envie uma solicitação de pull.
-uma solicitação de pull.
+## Contribution
+Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
+a pull request.
