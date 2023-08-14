@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Data Analysis - Honda Car Sales
 This notebook contains exploratory data analysis and price prediction for Honda cars at a specific store, available from Kaggle at https://www.kaggle.com/datasets/themrityunjaypathak/honda-car-selling.
 
